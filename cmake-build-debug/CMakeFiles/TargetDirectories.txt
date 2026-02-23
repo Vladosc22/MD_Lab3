@@ -1,0 +1,3 @@
+/Users/vlados/Desktop/UTM/Anu I/Matematica Discreta/MD Lab 3/cmake-build-debug/CMakeFiles/MD_Lab_3.dir
+/Users/vlados/Desktop/UTM/Anu I/Matematica Discreta/MD Lab 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vlados/Desktop/UTM/Anu I/Matematica Discreta/MD Lab 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
